@@ -1,0 +1,13 @@
+C:\Users\Admin\YandexDisk\NewGG\Updater\bin\Debug\Updater.exe.config
+C:\Users\Admin\YandexDisk\NewGG\Updater\bin\Debug\Updater.exe
+C:\Users\Admin\YandexDisk\NewGG\Updater\bin\Debug\Updater.pdb
+C:\Users\Admin\YandexDisk\NewGG\Updater\obj\Debug\Updater.csproj.CoreCompileInputs.cache
+C:\Users\Admin\YandexDisk\NewGG\Updater\obj\Debug\Updater.exe
+C:\Users\Admin\YandexDisk\NewGG\Updater\obj\Debug\Updater.pdb
+C:\YandexDisk\NewGG\Updater\bin\Debug\Updater.exe.config
+C:\YandexDisk\NewGG\Updater\bin\Debug\Updater.exe
+C:\YandexDisk\NewGG\Updater\bin\Debug\Updater.pdb
+C:\YandexDisk\NewGG\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+C:\YandexDisk\NewGG\Updater\obj\Debug\Updater.csproj.CoreCompileInputs.cache
+C:\YandexDisk\NewGG\Updater\obj\Debug\Updater.exe
+C:\YandexDisk\NewGG\Updater\obj\Debug\Updater.pdb

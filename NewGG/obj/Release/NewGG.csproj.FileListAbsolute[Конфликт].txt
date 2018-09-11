@@ -1,0 +1,14 @@
+C:\Users\Admin\Google Диск\NewGG\NewGG\bin\Release\NewGG.exe.config
+C:\Users\Admin\Google Диск\NewGG\NewGG\bin\Release\NewGG.exe
+C:\Users\Admin\Google Диск\NewGG\NewGG\bin\Release\NewGG.pdb
+C:\Users\Admin\Google Диск\NewGG\NewGG\bin\Release\MaterialSkin.dll
+C:\Users\Admin\Google Диск\NewGG\NewGG\bin\Release\Memory.dll
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Release\NewGG.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Release\NewGG.Assets.resources
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Release\NewGG.Form1.resources
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Release\NewGG.Properties.Resources.resources
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Release\NewGG.csproj.GenerateResource.Cache
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Release\NewGG.exe
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Release\NewGG.pdb
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Release\NewGG.Cheats.GUI.WhWindow.resources
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Release\NewGG.csproj.CoreCompileInputs.cache

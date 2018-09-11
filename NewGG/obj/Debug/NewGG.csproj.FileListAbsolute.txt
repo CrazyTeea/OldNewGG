@@ -1,0 +1,91 @@
+C:\Users\Admin\Google Диск\NewGG\NewGG\bin\Debug\NewGG.exe.config
+C:\Users\Admin\Google Диск\NewGG\NewGG\bin\Debug\NewGG.exe
+C:\Users\Admin\Google Диск\NewGG\NewGG\bin\Debug\NewGG.pdb
+C:\Users\Admin\Google Диск\NewGG\NewGG\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Debug\NewGG.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Debug\NewGG.Properties.Resources.resources
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Debug\NewGG.csproj.GenerateResource.Cache
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Debug\NewGG.exe
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Debug\NewGG.pdb
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Debug\NewGG.Assets.resources
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Debug\NewGG.Form1.resources
+C:\Users\Admin\Google Диск\NewGG\NewGG\bin\Debug\Memory.dll
+C:\Users\Admin\Google Диск\NewGG\NewGG\obj\Debug\NewGG.Cheats.GUI.WhWindow.resources
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\bin\Debug\NewGG.exe.config
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\bin\Debug\NewGG.exe
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\bin\Debug\NewGG.pdb
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\bin\Debug\MaterialSkin.dll
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\obj\Debug\NewGG.csprojResolveAssemblyReference.cache
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\obj\Debug\NewGG.Assets.resources
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\obj\Debug\NewGG.Cheats.GUI.WhWindow.resources
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\obj\Debug\NewGG.Form1.resources
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\obj\Debug\NewGG.Properties.Resources.resources
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\obj\Debug\NewGG.csproj.GenerateResource.Cache
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\obj\Debug\NewGG.csproj.CoreCompileInputs.cache
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\obj\Debug\NewGG.exe
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\obj\Debug\NewGG.pdb
+C:\Users\admin\Google Диск\NewGG (1)\NewGG\bin\Debug\Memory.dll
+C:\Users\admin\YandexDisk\NewGG\NewGG\bin\Debug\NewGG.exe.config
+C:\Users\admin\YandexDisk\NewGG\NewGG\bin\Debug\NewGG.exe
+C:\Users\admin\YandexDisk\NewGG\NewGG\bin\Debug\NewGG.pdb
+C:\Users\admin\YandexDisk\NewGG\NewGG\bin\Debug\MaterialSkin.dll
+C:\Users\admin\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.csprojResolveAssemblyReference.cache
+C:\Users\admin\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Assets.resources
+C:\Users\admin\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Form1.resources
+C:\Users\admin\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Properties.Resources.resources
+C:\Users\admin\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.csproj.GenerateResource.Cache
+C:\Users\admin\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.csproj.CoreCompileInputs.cache
+C:\Users\admin\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.exe
+C:\Users\admin\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.pdb
+C:\Users\Admin\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Admin\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.dll
+C:\Users\Admin\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Admin\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.xml
+C:\Users\Admin\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Admin\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Admin\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Cheats.GUI.Log.resources
+C:\Users\Admin\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Cheats.GUI.Auth_Form.resources
+C:\Users\Admin\YandexDisk\NewGG\NewGG\bin\Debug\Memory.dll
+C:\YandexDisk\NewGG\NewGG\bin\Debug\NewGG.exe.config
+C:\YandexDisk\NewGG\NewGG\bin\Debug\NewGG.exe
+C:\YandexDisk\NewGG\NewGG\bin\Debug\NewGG.pdb
+C:\YandexDisk\NewGG\NewGG\bin\Debug\MaterialSkin.dll
+C:\YandexDisk\NewGG\NewGG\bin\Debug\Memory.dll
+C:\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.Direct2D1.dll
+C:\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.dll
+C:\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.DXGI.dll
+C:\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.xml
+C:\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.Direct2D1.xml
+C:\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.DXGI.xml
+C:\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.csprojResolveAssemblyReference.cache
+C:\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Assets.resources
+C:\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Cheats.GUI.Auth_Form.resources
+C:\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Cheats.GUI.Log.resources
+C:\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Form1.resources
+C:\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Properties.Resources.resources
+C:\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.csproj.GenerateResource.cache
+C:\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.csproj.CoreCompileInputs.cache
+C:\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.csproj.CopyComplete
+C:\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.exe
+C:\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.pdb
+C:\Users\lipat\YandexDisk\NewGG\NewGG\bin\Debug\NewGG.exe.config
+C:\Users\lipat\YandexDisk\NewGG\NewGG\bin\Debug\NewGG.exe
+C:\Users\lipat\YandexDisk\NewGG\NewGG\bin\Debug\NewGG.pdb
+C:\Users\lipat\YandexDisk\NewGG\NewGG\bin\Debug\MaterialSkin.dll
+C:\Users\lipat\YandexDisk\NewGG\NewGG\bin\Debug\Memory.dll
+C:\Users\lipat\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\lipat\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.dll
+C:\Users\lipat\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.DXGI.dll
+C:\Users\lipat\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.xml
+C:\Users\lipat\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\lipat\YandexDisk\NewGG\NewGG\bin\Debug\SharpDX.DXGI.xml
+C:\Users\lipat\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Assets.resources
+C:\Users\lipat\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Cheats.GUI.Log.resources
+C:\Users\lipat\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Form1.resources
+C:\Users\lipat\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.Properties.Resources.resources
+C:\Users\lipat\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.csproj.GenerateResource.cache
+C:\Users\lipat\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.csproj.CoreCompileInputs.cache
+C:\Users\lipat\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.csproj.CopyComplete
+C:\Users\lipat\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.exe
+C:\Users\lipat\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.pdb
+C:\Users\lipat\YandexDisk\NewGG\NewGG\obj\Debug\NewGG.csprojAssemblyReference.cache
